@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    git commit -m "Added README.md with project details"
    ```
 
-3. **Push to GitHub**:
+3. Push to GitHub:
    ```
-   git push
+   **git push**
    ```
